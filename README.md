@@ -342,6 +342,6 @@ gcc -o cafe_management 咖啡店管理.cpp -g -Wall -Wextra
 
 ---
 
-**项目作者**: [您的姓名]  
+**项目作者**: elisemayly
 **最后更新**: 2024年  
 **版本**: 1.0.0 
